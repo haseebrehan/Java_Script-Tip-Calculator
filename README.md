@@ -1,1 +1,1 @@
-# Java_Script-Tip-Calculator
+Tip calculator Uisng JavaScript
